@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VimalAnand-SimpleHTMLPage</title>
+    <style>
+        body {
+            background-color: #ed5959; 
+            color: #333;
+            font-family: Arial, sans-serif; 
+        }
+
+        h1 {
+            color: #0066cc;
+        }
+
+        p {
+            font-size: 16px; 
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Simple HTML Page</h1>
+
+    <p>This is a simple HTML page with a heading, a paragraph of text, and an image.</p>
+
+    <img src="https://via.placeholder.com/300" alt="Placeholder Image">
+</body>
+</html>
